@@ -1,4 +1,25 @@
-## Welcome to GitHub Pages
+## Optimization Methods for Machine Learning 
+
+This is the webpage for CS 645. 
+
+
+### Course Summary
+
+
+
+### List of Topics
+
+
+### References
+
+
+### Grading Policy
+
+1. Quizzes (25%) -- we will be biweekly quizzes.
+2. Project (25%)
+3. Paper review and presentation (25%)
+4. 
+
 
 You can use the [editor on GitHub](https://github.com/anirbandg/optimize-ML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
